@@ -8,7 +8,7 @@ fp.close()
 
 nlist=nlist.split()
 sum=0
-for x in range(n): # for every number
+for x in range(n):
     nlist[x]=int(nlist[x])
     for y in range(k): 
         if nlist[x]%2==0: 
