@@ -1,4 +1,4 @@
-fp = open('Problem 2 - Mobile Game/p2input.txt')
+fp = open('2-mobilegame/p2input.txt')
 inputlist=[]
 for line in fp.readlines():
     line=line.split()

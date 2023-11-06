@@ -1,7 +1,7 @@
 n=733
 k=559
 
-fp = open("Problem 1 - Collatz/p1input.txt")
+fp = open("1-collatz/p1input.txt")
 for line in fp.readlines():
     nlist=line
 fp.close() 
